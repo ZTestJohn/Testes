@@ -1,0 +1,18 @@
+{
+  "name": "emailsender",
+  "version": "1.0.0",
+  "description": "Literalmente um site de enviar email com node (pelo menos era pra ser)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Testes"
+  },
+  "author": "Trraumatismo",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
